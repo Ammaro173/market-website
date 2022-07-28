@@ -1,5 +1,4 @@
-import { on } from "events";
-import { startTransition, useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 const axios = require("axios");
 import ProductDetails from "./ProductDetails";
 
